@@ -1,4 +1,4 @@
-package ExerciseGreetingsKotlin
+package exerciseGreetingsKotlin
 
 /**
  * Create a main() function that takes an argument representing the time in 24-hour format (values between and including 0 -> 23).
